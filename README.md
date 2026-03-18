@@ -1,5 +1,8 @@
 # Particle-Swarm-Optimization
-readme for description
+
+the user should create a ne environment for example 1 before installing pyswarms.
+
+**DESCRIPTION**
 
 Particle Swarm Optimization (PSO) is a collective intelligence technique inspired by the coordinated foraging patterns 
 of bird flocks and fish schools, specifically designed to solve continuous nonlinear problems. To understand its intuition, 
