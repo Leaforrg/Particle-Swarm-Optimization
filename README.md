@@ -9,4 +9,9 @@ Specifically, every bird tracks its own individual "best" historical position wh
 by any member of the swarm. 
 By updating their velocity and direction based on this shared information, the birds gravitate toward the most promising area. 
 Ultimately, this synergy between individual memory and group knowledge allows the swarm to converge
-rapidly on an optimal solution.
+rapidly on an optimal solution (Particle Swarm Optimization - an Overview | ScienceDirect Topics, n.d.).
+
+
+Reference: 
+
+Particle Swarm Optimization - an overview | ScienceDirect Topics. (n.d.). Www.sciencedirect.com. https://www.sciencedirect.com/topics/mathematics/particle-swarm-optimization
